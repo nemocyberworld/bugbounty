@@ -1,0 +1,2 @@
+# bugbounty
+Personal bugbounty notes
